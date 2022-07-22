@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JuDOBase = "dc2d990e-565e-4506-a8d3-68ae2348d6dc"
